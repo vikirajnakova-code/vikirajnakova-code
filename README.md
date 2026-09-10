@@ -1,5 +1,5 @@
 #  About Me:
-3rd year student at Secondary Industrial School of Electrical Engineering<br><br>while(learning) { <br>         code(); <br>         automate(); <br>}<br><br> beginner -> Linux |  DevOps |  Networking<br>Exploring the intersection of software engineering and systems administration. <br>Mastery of the command line and a lover of elegant Bash scripts.<br>
+4th year student at Secondary Industrial School of Electrical Engineering<br><br>while(learning) { <br>         code(); <br>         automate(); <br>}<br><br> beginner -> Linux |  DevOps |  Networking<br>Exploring the intersection of software engineering and systems administration. <br>Mastery of the command line and a lover of elegant Bash scripts.<br>
 
 
 ##  Socials:
